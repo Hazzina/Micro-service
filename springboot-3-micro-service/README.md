@@ -1,6 +1,5 @@
 # Microservices Demo Project
 
-#### by Alibou (https://aliboucoding.com/courses)
 
 ![alt text](diagram.png)
 
@@ -89,14 +88,6 @@ Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) fo
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-[Ali Bouali] - [contact@aliboucoding.com]
-
-[Website] - [https://aliboucoding.com/courses]
-
-Project Link: https://github.com/ali-bouali/springboot-3-micro-service-demo
 
 ## Acknowledgements
 
